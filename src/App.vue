@@ -26,19 +26,19 @@
             <h2 class="section-title">WORKS</h2>
             <div class="section-intro">
               <div class="section-text">
-                ただいま準備中です。<br class="pc">こちらも準備中です。
+                個人で作成したものや作成中のProjectです。<br class="pc">(公開非公開含む)
               </div>
             </div>
           </div>
           <div class="section-body card-wrapper my-gallery">
             <div class="card">
-              <a href="img/works/company.jpg" data-size="960x720" class="card-image hover-action-01">
-                <img class="lazyload fadein" src="img/placeholder4x3.png" data-src="img/works/company.jpg" alt="" />
+              <a href="img/screenshot_icon.png" data-size="250x250" class="card-image hover-action-01">
+                <img class="lazyload" src="img/screenshot_icon.png" data-src="img/screenshot_icon.png" alt="" />
               </a>
               <div class="card-caption">
-                <div class="card-caption-title">ただいま準備中です。</div>
-                <div class="card-caption-info">Design / Coding(Responsive) / WordPress</div>
-                <div class="card-caption-url"><a class="url-link" href="https://yahoo.co.jp" target="_blank">Link</a>
+                <div class="card-caption-title">Today's Horoscope</div>
+                <div class="card-caption-info">ChatBot / Python / Heroku </div>
+                <div class="card-caption-url"><a class="url-link" href="contents1.html" target="_blank">Link</a>
                 </div>
               </div>
             </div>
